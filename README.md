@@ -1,4 +1,4 @@
 # face-detector
-a console program that detects human face
+a console app that detects human face
 <hr>
 
