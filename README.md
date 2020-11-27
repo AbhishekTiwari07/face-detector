@@ -1,4 +1,2 @@
 # face-detector
-a console app that detects human face
-<hr>
-
+<p>A small project to get experience of openCV</p>
